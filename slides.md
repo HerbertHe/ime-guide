@@ -9,3 +9,9 @@ info: |
 drawings:
   persist: false
 ---
+
+# 测试
+
+<LangSwitcher />
+
+<Test />

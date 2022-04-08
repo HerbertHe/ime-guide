@@ -1,14 +1,23 @@
 {
-  "private": true,
-  "scripts": {
-    "build": "slidev build",
-    "dev": "slidev --open",
-    "export": "slidev export"
-  },
-  "dependencies": {
-    "@slidev/cli": "^0.29.2",
-    "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*"
-  },
-  "name": "ime-guide"
+    "private": true,
+    "scripts": {
+        "build": "slidev build",
+        "dev": "slidev --open",
+        "export": "slidev export"
+    },
+    "dependencies": {
+        "@slidev/cli": "^0.29.2",
+        "@slidev/theme-default": "*",
+        "@slidev/theme-seriph": "*",
+        "@slidev/types": "^0.29.2",
+        "vite": "^2.9.1",
+        "vue": "^3.2.31",
+        "vue-i18n": "^9.1.9"
+    },
+    "name": "ime-guide",
+    "devDependencies": {
+        "@intlify/vite-plugin-vue-i18n": "^3.4.0",
+        "@types/node": "^17.0.23",
+        "@vue/compiler-sfc": "^3.2.31"
+    }
 }
