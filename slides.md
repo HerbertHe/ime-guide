@@ -15,3 +15,13 @@ drawings:
 <LangSwitcher />
 
 <Test />
+
+<!-- 哈拼是什么 -->
+
+<!-- Rime 是什么 -->
+
+<!-- 下载 Rime -->
+
+<!-- 使用 hapin-arabic 输入方案 -->
+
+<!-- 更多内容 -->
