@@ -125,8 +125,14 @@ Herbert.He0229@gmail.com
 
 <WhatIsRime />
 
-<!-- 下载 Rime -->
+---
 
-<!-- 使用 hapin-arabic 输入方案 -->
+<DownloadRime />
 
-<!-- 更多内容 -->
+---
+
+<HowToUseHapinArabicSchema />
+
+---
+
+<ReadMore />
