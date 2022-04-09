@@ -112,8 +112,14 @@ Herbert.He0229@gmail.com
 | iw / yw  | يۋ     | Ю ю        |
 | ia / ya  | يا     | Я я        |
 
+> `yo` `c` `yw` `ya` 仅对西里尔字母有效, 不适用于老文字
+
 </div>
 </div>
+
+---
+
+<REPL />
 
 ---
 
