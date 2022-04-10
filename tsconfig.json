@@ -3,6 +3,7 @@
         "types": [
             "@intlify/vite-plugin-vue-i18n/client"
         ],
-        "esModuleInterop": true
+        "jsx": "preserve",
+        "esModuleInterop": true,
     }
 }

@@ -33,7 +33,7 @@
 </template>
 
 <script lang="ts" setup>
-import { ref, watchEffect } from "vue"
+import { ref } from "vue"
 import {
     transformArabicToHapin,
     transformCyrillicToArabic,

@@ -22,6 +22,8 @@ Herbert He @ [Hapin](https://github.com/ha-pin)
 
 Herbert.He0229@gmail.com
 
+<LangSwitcher />
+
 ---
 
 <WhatIsHapin />
