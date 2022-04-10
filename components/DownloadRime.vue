@@ -5,6 +5,9 @@
         你可以在
         <a href="https://rime.im/download/">Rime 官网</a> 下载对应平台的发行版。
     </p>
+    <blockquote>
+        <p>根据提示安装完成即可~</p>
+    </blockquote>
     <p>如果你的网络环境不被允许访问对应资源，可使用下面的链接下载。</p>
     <ul>
         <li>
@@ -47,5 +50,6 @@
         <li>
             适用于 Android（第三方软件）：
             <a href="https://github.com/osfans/trime/releases">同文安卓输入法</a>
-        </li>    </ul>
+        </li>
+        </ul>
 </template>
