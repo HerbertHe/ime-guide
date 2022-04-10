@@ -1564,10 +1564,10 @@ gray-matter@^4.0.3:
     section-matter "^1.0.0"
     strip-bom-string "^1.0.0"
 
-hapin-utils@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.npmjs.org/hapin-utils/-/hapin-utils-2.1.0.tgz#497ec5a24ad83b1bb11bcab8f64c3f96cc69bc1a"
-  integrity sha512-vy0GloUJS0pJrhi4NbsyTdJXA90EEIkBK/dKVHT22guatqqGqLxR6PJTX/MGIAHTjnoOtvegUHmUqk7kLXriXQ==
+hapin-utils@^2.2.0:
+  version "2.2.0"
+  resolved "https://registry.npmmirror.com/hapin-utils/-/hapin-utils-2.2.0.tgz#085113d935279c8df77d7a5c0fb5ae12b91ea75f"
+  integrity sha512-3I7HXBP/suyQ1B4FKhCxATHhsD0I+kI063koNK6zcgI9Y4JMq5ZRO/gr7rCo623AK31gZ/6UDOeVsLbeULCqfg==
 
 has@^1.0.3:
   version "1.0.3"
