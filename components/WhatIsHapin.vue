@@ -13,16 +13,17 @@
     </p>
     <p>
         {{ t("WhatIsHapin.p9") }}
-        <a
-            href="https://open-kazakh.vercel.app/hapin/repl"
-        >{{ t("WhatIsHapin.p10") }}</a>
+        <a href="https://open-kazakh.vercel.app/hapin/repl">{{
+            t("WhatIsHapin.p10")
+        }}</a>
     </p>
 </template>
 
 <script lang="ts" setup>
-import { useI18n } from "vue-i18n"
+import { useI18n } from "vue-i18n";
 
 const { t, locale } = useI18n({
-    inheritLocale: true
-})
+    inheritLocale: true,
+});
+console.log(locale);
 </script>
