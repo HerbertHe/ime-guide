@@ -7,7 +7,7 @@ export default defineConfig({
     base: "/ime-guide/",
     plugins: [
         vueI18n({
-            include: path.resolve(__dirname, "./locales/*"),
+            include: path.resolve(__dirname, "./locales/*")
         })
     ]
 })

@@ -9,7 +9,7 @@
     <ol>
         <li>正确安装 Rime 输入法发行版启动</li>
         <li>下载 hapin-arabic
-            最新输入方案 <a href="https://github.do/https://github.com/ha-pin/hapin-arabic/archive/refs/tags/v1.0.zip"> v1.0
+            最新输入方案 <a href="https://github.do/https://github.com/ha-pin/hapin-arabic/archive/refs/tags/v1.1.zip"> v1.0
             </a></li>
         <li>右击图标选择 “用户文件夹” 打开 </li>
         <li>将下载好的输入方案解压，选择 <b>红框内必要文件</b> 到 “用户文件夹”</li>

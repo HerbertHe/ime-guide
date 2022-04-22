@@ -9,11 +9,13 @@
 import { useI18n } from "vue-i18n"
 const { locale } = useI18n({
     inheritLocale: true,
+    useScope: "global"
 })
 const handleChange = (e: Event) => {
     const target = e.target as HTMLSelectElement
     // BUG 切换全局 i18n 语言
     locale.value = target.value
+    console.log(locale.value)
     document.getElementById("slide-content").style.direction = target.value === "cn" ? "ltr" : "rtl"
 }
 </script>
