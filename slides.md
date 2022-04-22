@@ -16,7 +16,7 @@ drawings:
 
 # 哈拼 Rime 输入方案指南
 
-حاپين رايم ەڭيزۋ سقەماس جول كورسەتۋشى
+حاپين رايم حات كىرگىزۋ جوباسى
 
 Herbert He @ [Hapin](https://github.com/ha-pin)
 
@@ -126,6 +126,7 @@ Herbert.He0229@gmail.com
 ---
 
 <WhatIsRime />
+
 
 ---
 

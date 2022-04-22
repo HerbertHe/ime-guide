@@ -1,21 +1,23 @@
 <template>
-    <select class="fixed top-7 right-7 text-dark-900 rounded p-1 dark:(bg-dark-900 text-light-900)"
-        @change="handleChange">
+    <select
+        class="fixed top-7 right-7 text-dark-900 rounded p-1 dark:(bg-dark-900 text-light-900)"
+        @change="handleChange"
+    >
         <option value="cn">简体中文</option>
-        <option value="kz">قازاق</option></select>
+        <option value="kz">قازاقشا</option>
+    </select>
 </template>
 
 <script lang="ts" setup>
-import { useI18n } from "vue-i18n"
+import { useI18n } from "vue-i18n";
 const { locale } = useI18n({
     inheritLocale: true,
-    useScope: "global"
-})
+});
 const handleChange = (e: Event) => {
-    const target = e.target as HTMLSelectElement
+    const target = e.target as HTMLSelectElement;
     // BUG 切换全局 i18n 语言
-    locale.value = target.value
-    console.log(locale.value)
-    document.getElementById("slide-content").style.direction = target.value === "cn" ? "ltr" : "rtl"
-}
+    locale.value = target.value;
+    document.getElementById("slide-content").style.direction =
+        target.value === "cn" ? "ltr" : "rtl";
+};
 </script>
